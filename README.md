@@ -3,7 +3,7 @@ Bu proje, React ve Redux kullanılarak geliştirilmiş basit bir ürün listelem
 
 🚀 Özellikler
 <ul>
-<li>✅ Ürün ekleme</li>✅ Ürün ekleme
+<li>✅ Ürün ekleme</li>
 
 <li>✅ Ürün güncelleme (Modal ile)</li>
 
