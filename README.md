@@ -28,5 +28,8 @@ Bu proje, React ve Redux kullanılarak geliştirilmiş basit bir ürün listelem
 --Tailwind CSS (veya kendi CSS yapın)
 
 --Base64 File Upload (FileReader API)
+
+
 🖼️ Görseller
-Modal üzerinden ürün ekleme / güncelleme işlemi yapılabilir.# react-redeux-urunekle
+![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/6f2a1299-28f3-4176-8db1-bcfea513142a)
+
