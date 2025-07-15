@@ -9,24 +9,24 @@ Bu proje, React ve Redux kullanılarak geliştirilmiş basit bir ürün listelem
 
 <li>✅ Görsel yükleme (Base64) </li>
 
-<li>✅ Ürünleri listeleme </li>>
+<li>✅ Ürünleri listeleme </li>
 
 <li>✅ Sıralama (fiyata göre) </li>
 
 <li>✅ Redux Store ile global state yönetimi </li>
 
 <li>✅ URL üzerinden ürün güncelleme (Query param ?id=1) </li>
+</ul>
 
 🧱 Kullanılan Teknolojiler
-React
+--React
 
-Redux Toolkit
+--Redux Toolkit
 
-React Router v6
+--React Router v6
 
-Tailwind CSS (veya kendi CSS yapın)
+--Tailwind CSS (veya kendi CSS yapın)
 
-Base64 File Upload (FileReader API)
-</ul>
+--Base64 File Upload (FileReader API)
 🖼️ Görseller
 Modal üzerinden ürün ekleme / güncelleme işlemi yapılabilir.# react-redeux-urunekle
