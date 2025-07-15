@@ -2,19 +2,20 @@
 Bu proje, React ve Redux kullanılarak geliştirilmiş basit bir ürün listeleme ve yönetim uygulamasıdır. Kullanıcılar ürün ekleyebilir, güncelleyebilir, sıralayabilir ve görsel ekleyebilir.
 
 🚀 Özellikler
-✅ Ürün ekleme
+<ul>
+<li>>✅ Ürün ekleme</li>✅ Ürün ekleme
 
-✅ Ürün güncelleme (Modal ile)
+<li>✅ Ürün güncelleme (Modal ile)</li>
 
-✅ Görsel yükleme (Base64)
+<li>✅ Görsel yükleme (Base64) </li>
 
-✅ Ürünleri listeleme
+<li>✅ Ürünleri listeleme </li>>
 
-✅ Sıralama (fiyata göre)
+<li>✅ Sıralama (fiyata göre) </li>
 
-✅ Redux Store ile global state yönetimi
+<li>✅ Redux Store ile global state yönetimi </li>
 
-✅ URL üzerinden ürün güncelleme (Query param ?id=1)
+<li>✅ URL üzerinden ürün güncelleme (Query param ?id=1) </li>
 
 🧱 Kullanılan Teknolojiler
 React
@@ -26,6 +27,6 @@ React Router v6
 Tailwind CSS (veya kendi CSS yapın)
 
 Base64 File Upload (FileReader API)
-
+</ul>
 🖼️ Görseller
 Modal üzerinden ürün ekleme / güncelleme işlemi yapılabilir.# react-redeux-urunekle
